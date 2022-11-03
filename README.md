@@ -3,7 +3,7 @@
 _Mata kuliah Kecerdasan Buatan_
 _Dosen Pengampu IR. GALIH WASIS WICAKSONO, S.KOM, M.CS._
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Python](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)](https://www.python.org/downloads/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
