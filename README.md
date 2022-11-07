@@ -40,5 +40,4 @@ Data set ini menggunakan beberapa plungin. Interuksi cara menggunakan data set i
 
 | Plugin | README |
 | ------ | ------ |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| GitHub | [https://github.com/Asfamaghfiratunnisa/Dataset-Daun-Jambu-Biji-dan-Daun-Belimbing-Wuluh_126-138.git][PlGh] |
